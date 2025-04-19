@@ -3,7 +3,7 @@ import 'dart:io';
 
 Future<void> main(List<String> arguments) async {
   print('started');
-  var inputFile = File('C:\\FlutterProjects\\text_convert\\bin\\input.csv');
+  var inputFile = File('C:\\FlutterProjects\\text_convert\\bin\\550link.txt');
   var outputFile = File('C:\\FlutterProjects\\text_convert\\bin\\links.dart');
 
   // Read the file contents
